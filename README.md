@@ -15,7 +15,7 @@
 
 #### A little more about me
 ```javascript
-const badri = {
+const victor = {
   pronouns: "He" | "Him",
   code: ["Rails", "HTML", "CSS", "JavaScript", "SCSS", "Python"],
   askMeAbout: ["web dev", "fullstack dev", "rails"],
@@ -53,7 +53,3 @@ const badri = {
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vcanedo&theme=onedark" alt="vcanedo" />
 </p>
-
-#### Contribution Graph
-[![Victor Canedo's github activity graph](https://activity-graph.herokuapp.com/graph?username=vcanedo&theme=react-dark)](https://github.com/vcanedo/github-readme-activity-graph)
-
