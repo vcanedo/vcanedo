@@ -28,11 +28,9 @@ const victor = {
 
 #### Popular Projects
 <a href="https://github.com/0tt049/dev4dev">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0tt049&repo=dev4dev&theme=onedark" />
 </a>    
 <a href="https://github.com/0tt049/murdoc">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0tt049&repo=murdoc&theme=onedark"/>
 </a>
 
@@ -45,7 +43,6 @@ const victor = {
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vcanedo&show_icons=true&include_all_commits=true&theme=onedark" alt="Victor's github stats" />
 </a>
 <a href="https://github.com/vcanedo/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcanedo&layout=compact&theme=onedark" />
 </a>
 <br />
