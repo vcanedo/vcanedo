@@ -1,4 +1,4 @@
-<div cursor="default">
+<div cursor="pointer">
   
   <p align="center">
     <h1 align="center">Welcome to <a href="https://github.com/vcanedo">Victor Canedo</a>'s Profile 👋</h1>
