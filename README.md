@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @vcanedo</li>
-  <li>❤️ I love Creating websites and Programming in Ruby, HTML, CSS and JavaScript.</li>
+  <li>❤️ I love Programming in Ruby, HTML, CSS and JavaScript.</li>
   <li>📄 My Resume, https://flowcv.com/resume/jr8pedps8o</li>
   <li>🧐 Portfolio Website, https://troopl.com/victorcanedo</li>
 </ul>
