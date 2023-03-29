@@ -51,4 +51,4 @@ const victor = {
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vcanedo&theme=onedark" alt="vcanedo" />
 </p>
 
-#### Thank you! 😊
+<h3>Thank you! 😊</h3>
