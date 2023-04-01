@@ -35,7 +35,10 @@ const victor = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0tt049&repo=murdoc&theme=onedark"/>
 </a>
 
-#### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<!-- animated code gif for later use -->
+<!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> -->
+
+#### Skills 
 <a href="https://github.com/0tt049/dev4dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0tt049&repo=dev4dev&theme=onedark" />
 </a>
