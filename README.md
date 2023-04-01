@@ -29,7 +29,7 @@ const victor = {
 
 #### Popular Projects
 <a href="https://github.com/0tt049/dev4dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0tt049&repo=dev4dev&theme=onedark" width="40px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0tt049&repo=dev4dev&theme=onedark"/>
 </a>
 <a href="https://github.com/0tt049/murdoc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0tt049&repo=murdoc&theme=onedark"/>
@@ -39,7 +39,7 @@ const victor = {
 <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> -->
 
 #### Skills 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="32px"/>
 
 
 #### Trophies
