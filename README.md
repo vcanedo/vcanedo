@@ -14,6 +14,9 @@
   <li>🧐 Portfolio Website, https://troopl.com/victorcanedo</li>
 </ul>
 
+</br>
+</br>
+
 #### A little more about me
 ```javascript
 const victor = {
@@ -26,6 +29,9 @@ const victor = {
   }
 }
 ```
+
+</br>
+</br>
 
 #### Popular Projects
 <a href="https://github.com/0tt049/dev4dev">
