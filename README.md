@@ -59,15 +59,14 @@ width="46px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git
 
 #### Stats
 <a href="https://github.com/vcanedo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vcanedo&show_icons=true&include_all_commits=true&theme=onedark" alt="Victor's github stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vcanedo&show_icons=true&include_all_commits=true&theme=onedark" alt="Victor's github         stats" />
 </a>
-<a href="https://github.com/vcanedo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcanedo&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
-<p align="center">
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcanedo&show_icons=true&layout=compact&theme=onedark" alt="vcanedo" /></p>
+
+<p>
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vcanedo&theme=onedark" alt="vcanedo" />
 </p>
+  
 
 <h3 align="center">Thank you! 😊</h3>
