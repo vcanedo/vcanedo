@@ -10,8 +10,8 @@
 <ul>
   <li>👋 Hi, I’m @vcanedo</li>
   <li>❤️ I love Programming in Ruby, HTML, CSS and JavaScript.</li>
-  <li>📄 [My Resume](https://flowcv.com/resume/jr8pedps8o)</li>
-  <li>😊 [Portfolio](https://vcanedo.github.io/)</li>
+  <li>📄 My Resume: https://flowcv.com/resume/jr8pedps8o</li> 
+  <li>😊 Portfolio: https://vcanedo.github.io/</li>
 </ul>
 
 </br>
