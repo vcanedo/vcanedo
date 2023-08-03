@@ -21,11 +21,11 @@
 ```javascript
 const victor = {
   pronouns: "He" | "Him",
-  code: ["Rails", "HTML", "CSS", "JavaScript", "SCSS", "Python"],
-  askMeAbout: ["web dev", "fullstack dev", "rails"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "SCSS"],
-      backend: ["Ruby", "JS"],
+  code: ["Ruby on Rails", "HTML", "CSS", "JavaScript", "React", "SCSS", "Python"],
+  askMeAbout: ["web dev", "fullstack dev", "rails", "react"],
+  languages: {
+      frontend: ["HTML", "CSS", "JS", "React", "Bootstrap", "SCSS"],
+      backend: ["Ruby", "JS"]
   }
 }
 ```
