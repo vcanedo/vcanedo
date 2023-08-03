@@ -20,7 +20,7 @@
 #### A little more about me
 ```javascript
 const victor = {
-  pronouns: "He" | "Him",
+  pronouns: ["He", "Him"],
   code: ["Ruby on Rails", "HTML", "CSS", "JavaScript", "React", "SCSS", "Python"],
   askMeAbout: ["web dev", "fullstack dev", "rails", "react"],
   languages: {
